@@ -1,1 +1,2 @@
 # gitTutorial
+pull and push
